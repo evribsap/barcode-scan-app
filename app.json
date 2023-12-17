@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "barcode-scan-app",
+    "slug": "barcode-scan-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "barcode-scan-app"
+}
